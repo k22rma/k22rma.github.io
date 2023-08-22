@@ -84,7 +84,7 @@ async function getInputValue(){
   else if(value === "about me"){
     trueValue(value);
     createText("We code aggresively)")
-    createText("WE work with EV3. We also code in Python. KIVY PY, HTML, CSS, Javascript <span class='blue'>we love to participate in competitons</span>")
+    createText("WE work with EV3. We also code in Python. KIVY PY, HTML, CSS, Javascript <span class='blue'>we love to participate in competitons. We just qualified for Level 3 of WRO!!!!!!</span>")
   }
   else if(value === "social -a"){
     trueValue(value);
